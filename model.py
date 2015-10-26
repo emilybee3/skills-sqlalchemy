@@ -75,6 +75,7 @@ if __name__ == "__main__":
     # you in a state of being able to work with the database directly.
 
     # So that we can use Flask-SQLAlchemy, we'll make a Flask app
+    # adding a comment to test git
     from flask import Flask
     app = Flask(__name__)
 
